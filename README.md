@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Uniformes Único 🧵
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sitio web de Uniformes Único, empresa dedicada a la confección y venta de uniformes escolares para diversas instituciones educativas.
 
-## Available Scripts
+## 🚧 Estado del proyecto
 
-In the project directory, you can run:
+Este sitio web **se encuentra en desarrollo activo**. Actualmente se están construyendo las siguientes secciones:
 
-### `npm start`
+- Página de inicio con catálogo visual por escuela
+- Guía de tallas y detalles por producto
+- Conexión con base de datos para mostrar uniformes por nivel, género y talla
+- Mejora de diseño responsive para móviles
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 Objetivo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+El propósito de esta página no es posicionar la marca a nuevos clientes, sino mejorar la **atención a padres y estudiantes** que ya pertenecen a escuelas con las que trabajamos. La plataforma permitirá:
 
-### `npm test`
+- Visualizar uniformes por escuela
+- Revisar guías de tallas desde casa
+- Conocer precios y disponibilidad antes de ir a tienda
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologías utilizadas
 
-### `npm run build`
+- React
+- HTML/CSS
+- React Router
+- (Próximamente) Conexión a base de datos MySQL
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📍 Estado actual
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [x] Navbar y footer terminados
+- [x] Página principal con hero y catálogo visual básico
+- [ ] Sección de catálogo funcional con filtros por escuela
+- [ ] Diseño responsive completo
+- [ ] Integración backend
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+_Desarrollado con cariño por Oliver Vázquez
