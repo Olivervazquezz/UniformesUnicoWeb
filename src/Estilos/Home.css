@@ -1,0 +1,69 @@
+.home {
+  text-align: center;
+}
+
+.hero {
+  position: relative;
+}
+
+.hero-img {
+  width: 100%;
+  max-height: 640px;
+  object-fit: cover;
+}
+
+.hero-title {
+  position: absolute;
+  top: 22%;
+  left: 5%;
+  transform: translateY(-50%);
+  color: white;
+  font-size: 4rem;
+  font-weight: bold;
+  text-align: left;
+}
+
+.catalogo-colegios {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  padding: 2rem 1rem;
+  gap: 3rem;
+}
+
+.colegio-card {
+  max-width: 200px;
+  text-align: center;
+}
+
+.colegio-card img {
+  width: 100%;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.colegio-card p {
+  margin-top: 0.5rem;
+  font-weight: 500;
+  color: #1a1a1a;
+}
+
+.catalogo-boton {
+  margin: 1rem;
+}
+
+.catalogo-boton button {
+  background-color: Black;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.catalogo-boton button:hover {
+  background-color: #003380;
+}

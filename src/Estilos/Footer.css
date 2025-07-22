@@ -1,0 +1,28 @@
+.footer {
+  background-color: White;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8.5rem;
+  margin-top: 50px;
+  font-size: 0.95rem;
+  border-top: 1px solid black;
+}
+
+.footer-section {
+  flex: 1 1 200px;
+  min-width: 200px;
+}
+
+.footer-section h4 {
+  margin-bottom: 0.75rem;
+  margin-top: 8px;
+  font-size: 1rem;
+  color: Black;
+}
+
+.footer-section p {
+  margin: 0.3rem 0;
+  color: #6D6D6D;
+}
